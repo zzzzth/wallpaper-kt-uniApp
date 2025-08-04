@@ -13,5 +13,5 @@
 </script>
 
 <style lang="scss">
-@import url("common/commonStyle.scss");
+@import '@/common/commonStyle.scss';
 </style>
